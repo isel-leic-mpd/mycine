@@ -1,2 +1,0 @@
-isel/leirt/mpd/moviesdb2/tests/StreamUtilsTests.java
- isel.leirt.mpd.moviesdb2.tests.StreamUtilsTests
