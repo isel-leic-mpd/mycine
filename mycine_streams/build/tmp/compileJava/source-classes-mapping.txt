@@ -1,0 +1,32 @@
+isel/mpd/moviesdb2/dto/GenreDto.java
+ isel.mpd.moviesdb2.dto.GenreDto
+isel/mpd/moviesdb2/model/Genre.java
+ isel.mpd.moviesdb2.model.Genre
+isel/mpd/moviesdb2/model/Movie.java
+ isel.mpd.moviesdb2.model.Movie
+isel/mpd/moviesdb2/MoviesDbWebApi.java
+ isel.mpd.moviesdb2.MoviesDbWebApi
+isel/mpd/moviesdb2/dto/GenreListQuery.java
+ isel.mpd.moviesdb2.dto.GenreListQuery
+isel/mpd/moviesdb2/dto/SearchMoviesDto.java
+ isel.mpd.moviesdb2.dto.SearchMoviesDto
+isel/mpd/moviesdb2/model/MovieDetail.java
+ isel.mpd.moviesdb2.model.MovieDetail
+isel/mpd/moviesdb2/dto/MovieDto.java
+ isel.mpd.moviesdb2.dto.MovieDto
+isel/mpd/moviesdb2/model/Actor.java
+ isel.mpd.moviesdb2.model.Actor
+isel/mpd/moviesdb2/dto/MovieDetailDto.java
+ isel.mpd.moviesdb2.dto.MovieDetailDto
+isel/mpd/moviesdb2/dto/ActorDto.java
+ isel.mpd.moviesdb2.dto.ActorDto
+isel/mpd/moviesdb2/dto/CompanyDto.java
+ isel.mpd.moviesdb2.dto.CompanyDto
+isel/mpd/moviesdb2/dto/MoviesQueryDto.java
+ isel.mpd.moviesdb2.dto.MoviesQueryDto
+isel/mpd/moviesdb2/dto/GetActorMoviesDto.java
+ isel.mpd.moviesdb2.dto.GetActorMoviesDto
+isel/mpd/moviesdb2/dto/GetActorsDto.java
+ isel.mpd.moviesdb2.dto.GetActorsDto
+isel/mpd/moviesdb2/MoviesDbService.java
+ isel.mpd.moviesdb2.MoviesDbService

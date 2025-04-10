@@ -1,0 +1,4 @@
+isel/leirt/mpd/moviesdb2_tests/MoviesDbWebApiTests.java
+ isel.leirt.mpd.moviesdb2_tests.MoviesDbWebApiTests
+isel/leirt/mpd/moviesdb2_tests/MoviesDbServiceTests.java
+ isel.leirt.mpd.moviesdb2_tests.MoviesDbServiceTests
